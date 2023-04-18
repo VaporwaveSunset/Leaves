@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <a href="https://github.com/VaporwaveSunset/Leaves">![GitHub Repo stars](https://img.shields.io/github/stars/VaporwaveSunset/Leaves?style=social)</a>
+    <a href="https://github.com/VaporwaveSunset/Leaves/Stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/VaporwaveSunset/Leaves?style=social)</a>
 </div>
 
 - Leaves is an open source web application
