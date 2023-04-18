@@ -1,4 +1,7 @@
-# Cool-Project 
+# Leaves
 
-- This is an application written in C++ 
-- This is a random project maintained by me and a friend
+- Leaves is an open source web application
+- This is a project maintained by me and a friend
+- Free, forever
+
+- Domain pending, check back soon :party_popper:
