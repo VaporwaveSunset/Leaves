@@ -4,4 +4,4 @@
 - This is a project maintained by me and a friend
 - Free, forever
 
-- Domain pending, check back soon 🎉:
+- Domain pending, check back soon 🎉
