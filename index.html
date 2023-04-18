@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+
+    <title>Leaves</title>
+    <!-- <script src="https://pixijs.download/release/pixi.js"></script> -->
+    <link href = "style.css?ver=6", rel = "stylesheet" >
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+  </head>
+  <body>
+    <div id="chat">
+	     <div id="chat-messages">
+
+	     <form id="chat-form" method="post">
+         <input type="text" name="message" placeholder="Enter a message..." maxlength="50" autocomplete="off">
+		     <button type="submit">Send</button>
+ 	     </form>
+     </div>
+    <script src="server/index.js">
+      const ws = new WebSocket("ws://localhost:8080");
+    </script>
+
+  </body>
+</html>
