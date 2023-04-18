@@ -1,7 +1,6 @@
 <h1 align="center">
     <span>Leaves</span>
   <img width="auto" height="50px" src="https://github.com/VaporwaveSunset/Leaves/blob/main/images/Leaf.png"/>
-    ![GitHub Repo stars](https://img.shields.io/github/stars/VaporwaveSunset/Leaves?style=social)
 </h1>
 
 <div align="center">
@@ -13,5 +12,3 @@
 - Free, forever
 
 - Domain pending, check back soon 🎉
-
-![GitHub Repo stars](https://img.shields.io/github/stars/VaporwaveSunset/Leaves?style=social)
