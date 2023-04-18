@@ -10,7 +10,7 @@
 # Project information
 - Leaves is a free and open source web application
 - This is a project maintained by me and a friend
-- Free, forever
+- Designed for simplicity and user-friendliness
 
 # How to try for yourself
 - Download the zip or run ``git clone https://github.com/VaporwaveSunset/Leaves`` in your terminal
