@@ -4,6 +4,9 @@
 </h1>
 
 
+![GitHub Repo stars](https://img.shields.io/github/stars/github.com/VaporwaveSunset/Leaves?style=social)
+
+
 - Leaves is an open source web application
 - This is a project maintained by me and a friend
 - Free, forever
