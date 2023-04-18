@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    ![GitHub](https://img.shields.io/github/stars/vaporwavesunset/leaves?style=social)
+    ![GitHub](https://img.shields.io/github/directory-file-count/VaporwaveSunset/Leaves)
 </div>
 
 - Leaves is an open source web application
